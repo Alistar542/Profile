@@ -1,0 +1,40 @@
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      background-color:transparent;
+      border-bottom-color: transparent;
+      
+    }
+
+.bg-1 {
+    background-color:	#ff9f80;
+    color: #ffffff;
+    height: 100vh;
+}
+.bg-2 {
+    background-color:	#99b3ff;
+    color: #ffffff;
+    height: 100vh;
+}
+.bg-3 {
+    background-color:	#99ffff;
+    color: #ffffff;
+    height: 100vh;
+}
+.bg-4 {
+    background-color:	#666699;
+    color: #ffffff;
+    height: 200px;
+}
+
+.text-ali {
+    padding-top: 30px;
+    font-size: 70px;
+}
+
+a:active {
+
+    background-color: transparent;
+    color: transparent;
+}
+
